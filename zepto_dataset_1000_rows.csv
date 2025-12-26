@@ -1,0 +1,1001 @@
+order_id,product_name,category,price,quantity,city,payment_mode,delivery_time_minutes,order_date
+1,Product_30,Vegetables,134,5,Delhi,Cash on Delivery,11,2024-06-24
+2,Product_86,Dairy,112,3,Hyderabad,Debit Card,14,2024-03-30
+3,Product_180,Snacks,224,2,Hyderabad,UPI,15,2024-06-26
+4,Product_93,Snacks,105,5,Pune,Debit Card,8,2024-02-16
+5,Product_141,Snacks,150,1,Bangalore,UPI,21,2024-04-06
+6,Product_195,Snacks,25,4,Bangalore,Cash on Delivery,14,2024-04-10
+7,Product_180,Personal Care,259,4,Pune,Cash on Delivery,18,2024-06-05
+8,Product_98,Dairy,172,2,Pune,Cash on Delivery,25,2024-03-01
+9,Product_89,Vegetables,90,2,Pune,Debit Card,16,2024-05-11
+10,Product_198,Snacks,285,2,Delhi,Debit Card,12,2024-01-09
+11,Product_65,Household,94,4,Kolkata,UPI,18,2024-05-07
+12,Product_67,Household,30,1,Mumbai,Debit Card,9,2024-06-05
+13,Product_18,Vegetables,73,2,Pune,Debit Card,16,2024-01-27
+14,Product_80,Snacks,42,2,Chennai,Cash on Delivery,14,2024-02-19
+15,Product_25,Fruits,40,4,Kolkata,UPI,25,2024-04-14
+16,Product_10,Beverages,212,4,Delhi,UPI,22,2024-04-29
+17,Product_9,Vegetables,434,5,Mumbai,Credit Card,18,2024-02-07
+18,Product_104,Beverages,262,4,Kolkata,UPI,14,2024-03-12
+19,Product_149,Personal Care,169,1,Mumbai,Cash on Delivery,14,2024-04-04
+20,Product_106,Dairy,112,1,Bangalore,Debit Card,21,2024-04-05
+21,Product_164,Vegetables,475,4,Delhi,Debit Card,8,2024-01-17
+22,Product_38,Vegetables,291,4,Bangalore,Cash on Delivery,23,2024-03-10
+23,Product_122,Vegetables,81,3,Bangalore,Credit Card,22,2024-04-08
+24,Product_81,Beverages,471,3,Delhi,Debit Card,22,2024-03-31
+25,Product_167,Beverages,356,3,Chennai,Credit Card,9,2024-01-20
+26,Product_180,Snacks,224,3,Mumbai,Credit Card,18,2024-06-01
+27,Product_179,Beverages,124,1,Hyderabad,Debit Card,17,2024-03-09
+28,Product_187,Snacks,84,2,Hyderabad,Cash on Delivery,10,2024-02-08
+29,Product_121,Fruits,184,1,Pune,Debit Card,20,2024-04-11
+30,Product_159,Vegetables,53,5,Pune,UPI,24,2024-01-20
+31,Product_63,Snacks,151,4,Bangalore,Debit Card,21,2024-05-06
+32,Product_102,Fruits,346,1,Delhi,UPI,15,2024-02-11
+33,Product_154,Beverages,345,5,Kolkata,Credit Card,11,2024-05-19
+34,Product_11,Beverages,139,4,Pune,Cash on Delivery,22,2024-05-17
+35,Product_44,Household,345,1,Pune,Credit Card,13,2024-06-21
+36,Product_113,Dairy,49,5,Pune,Debit Card,20,2024-01-31
+37,Product_135,Dairy,353,1,Bangalore,Cash on Delivery,19,2024-05-16
+38,Product_70,Snacks,346,3,Bangalore,UPI,8,2024-05-20
+39,Product_115,Snacks,349,4,Chennai,Cash on Delivery,14,2024-02-18
+40,Product_192,Beverages,144,4,Kolkata,Credit Card,13,2024-03-27
+41,Product_54,Snacks,314,5,Pune,Cash on Delivery,13,2024-01-21
+42,Product_149,Dairy,173,3,Kolkata,Debit Card,8,2024-06-07
+43,Product_140,Household,305,5,Pune,Credit Card,9,2024-01-07
+44,Product_167,Vegetables,122,2,Chennai,Credit Card,18,2024-03-19
+45,Product_63,Vegetables,95,5,Chennai,UPI,9,2024-02-27
+46,Product_90,Snacks,403,4,Bangalore,Credit Card,23,2024-06-09
+47,Product_151,Dairy,313,2,Mumbai,UPI,14,2024-05-08
+48,Product_131,Household,231,3,Bangalore,UPI,16,2024-03-11
+49,Product_23,Snacks,200,4,Hyderabad,Credit Card,14,2024-06-28
+50,Product_70,Snacks,24,2,Bangalore,UPI,13,2024-01-13
+51,Product_31,Household,99,2,Kolkata,Credit Card,25,2024-02-03
+52,Product_190,Beverages,98,4,Kolkata,Cash on Delivery,10,2024-03-25
+53,Product_53,Vegetables,296,4,Chennai,UPI,19,2024-04-22
+54,Product_105,Beverages,36,2,Mumbai,Credit Card,14,2024-02-07
+55,Product_39,Dairy,381,2,Kolkata,Credit Card,14,2024-01-04
+56,Product_12,Fruits,129,1,Delhi,Credit Card,18,2024-01-02
+57,Product_66,Snacks,241,3,Hyderabad,UPI,8,2024-06-26
+58,Product_147,Personal Care,363,4,Bangalore,Debit Card,12,2024-02-16
+59,Product_121,Vegetables,463,3,Pune,Debit Card,14,2024-04-06
+60,Product_32,Dairy,450,5,Mumbai,Cash on Delivery,21,2024-04-16
+61,Product_147,Fruits,59,4,Delhi,Credit Card,13,2024-02-05
+62,Product_100,Beverages,308,2,Delhi,UPI,14,2024-03-07
+63,Product_135,Fruits,152,1,Kolkata,Debit Card,21,2024-03-15
+64,Product_24,Household,335,3,Bangalore,UPI,21,2024-05-24
+65,Product_122,Dairy,207,3,Pune,Debit Card,12,2024-04-03
+66,Product_69,Beverages,55,3,Hyderabad,UPI,21,2024-03-23
+67,Product_94,Beverages,450,2,Bangalore,Cash on Delivery,13,2024-04-29
+68,Product_35,Dairy,208,4,Chennai,Credit Card,9,2024-06-27
+69,Product_28,Snacks,168,1,Chennai,Debit Card,16,2024-05-02
+70,Product_71,Snacks,424,2,Mumbai,Debit Card,17,2024-02-15
+71,Product_174,Beverages,458,5,Delhi,Debit Card,23,2024-06-20
+72,Product_23,Personal Care,191,1,Mumbai,UPI,18,2024-01-15
+73,Product_96,Personal Care,466,3,Kolkata,Debit Card,17,2024-04-14
+74,Product_45,Personal Care,404,4,Mumbai,Cash on Delivery,11,2024-05-29
+75,Product_94,Household,302,5,Pune,Debit Card,15,2024-04-29
+76,Product_20,Fruits,290,1,Bangalore,Debit Card,13,2024-03-21
+77,Product_109,Dairy,362,2,Delhi,Cash on Delivery,10,2024-06-21
+78,Product_90,Dairy,141,4,Pune,UPI,25,2024-05-21
+79,Product_60,Beverages,462,3,Mumbai,UPI,12,2024-03-22
+80,Product_30,Vegetables,317,1,Bangalore,Credit Card,15,2024-02-12
+81,Product_174,Snacks,481,3,Bangalore,UPI,13,2024-03-11
+82,Product_156,Beverages,51,5,Pune,UPI,16,2024-05-09
+83,Product_19,Fruits,153,2,Pune,Debit Card,10,2024-01-13
+84,Product_160,Snacks,151,5,Delhi,Cash on Delivery,15,2024-05-21
+85,Product_105,Household,491,5,Delhi,UPI,17,2024-01-02
+86,Product_143,Fruits,215,5,Pune,UPI,19,2024-03-28
+87,Product_193,Beverages,171,4,Chennai,Debit Card,12,2024-05-29
+88,Product_87,Beverages,450,1,Kolkata,UPI,9,2024-02-01
+89,Product_90,Fruits,410,1,Kolkata,Credit Card,14,2024-06-07
+90,Product_156,Snacks,313,5,Chennai,Debit Card,23,2024-02-16
+91,Product_182,Vegetables,261,1,Pune,Debit Card,22,2024-01-19
+92,Product_18,Snacks,217,1,Mumbai,Cash on Delivery,17,2024-03-04
+93,Product_127,Dairy,59,5,Mumbai,Cash on Delivery,10,2024-06-17
+94,Product_47,Beverages,86,1,Delhi,Debit Card,14,2024-06-27
+95,Product_85,Household,140,3,Chennai,Cash on Delivery,16,2024-03-12
+96,Product_111,Fruits,82,2,Mumbai,Credit Card,18,2024-04-03
+97,Product_165,Beverages,20,3,Chennai,Cash on Delivery,10,2024-05-29
+98,Product_118,Vegetables,198,2,Bangalore,Credit Card,11,2024-04-16
+99,Product_192,Beverages,343,5,Hyderabad,Cash on Delivery,15,2024-04-28
+100,Product_119,Fruits,181,5,Pune,UPI,23,2024-05-07
+101,Product_57,Snacks,427,1,Chennai,Credit Card,15,2024-05-09
+102,Product_4,Household,72,2,Hyderabad,Credit Card,13,2024-05-14
+103,Product_144,Vegetables,382,5,Bangalore,Credit Card,24,2024-03-22
+104,Product_85,Beverages,360,3,Hyderabad,Credit Card,9,2024-05-23
+105,Product_37,Vegetables,267,4,Hyderabad,Debit Card,13,2024-05-15
+106,Product_117,Dairy,367,2,Kolkata,UPI,18,2024-03-15
+107,Product_26,Vegetables,267,1,Kolkata,UPI,8,2024-02-01
+108,Product_79,Personal Care,474,1,Mumbai,Cash on Delivery,23,2024-04-02
+109,Product_106,Vegetables,265,4,Kolkata,UPI,14,2024-01-26
+110,Product_193,Snacks,124,5,Kolkata,UPI,13,2024-04-24
+111,Product_6,Snacks,352,3,Mumbai,UPI,15,2024-02-02
+112,Product_178,Household,147,3,Kolkata,UPI,19,2024-05-01
+113,Product_58,Vegetables,489,4,Chennai,Credit Card,25,2024-03-08
+114,Product_69,Fruits,430,5,Chennai,UPI,8,2024-01-11
+115,Product_145,Dairy,247,1,Kolkata,UPI,12,2024-04-28
+116,Product_122,Beverages,60,5,Hyderabad,UPI,13,2024-06-19
+117,Product_111,Personal Care,134,1,Kolkata,UPI,23,2024-04-05
+118,Product_147,Beverages,316,2,Mumbai,Debit Card,23,2024-05-26
+119,Product_77,Fruits,29,2,Pune,Credit Card,25,2024-05-30
+120,Product_90,Dairy,96,4,Delhi,Cash on Delivery,15,2024-03-17
+121,Product_148,Fruits,394,5,Pune,Debit Card,18,2024-03-12
+122,Product_44,Beverages,264,2,Kolkata,Debit Card,20,2024-03-13
+123,Product_27,Beverages,486,3,Bangalore,Debit Card,10,2024-03-21
+124,Product_108,Personal Care,254,2,Pune,Cash on Delivery,9,2024-04-27
+125,Product_105,Vegetables,342,5,Chennai,Debit Card,16,2024-04-29
+126,Product_109,Dairy,166,3,Mumbai,UPI,19,2024-05-25
+127,Product_74,Dairy,170,1,Chennai,Cash on Delivery,16,2024-03-12
+128,Product_73,Vegetables,362,5,Bangalore,UPI,9,2024-05-26
+129,Product_151,Vegetables,255,5,Kolkata,UPI,11,2024-05-08
+130,Product_75,Fruits,479,1,Mumbai,Credit Card,9,2024-05-06
+131,Product_81,Vegetables,285,4,Bangalore,Debit Card,24,2024-06-23
+132,Product_51,Dairy,423,5,Mumbai,Debit Card,16,2024-04-10
+133,Product_99,Personal Care,330,4,Delhi,Cash on Delivery,13,2024-06-07
+134,Product_104,Household,330,2,Chennai,Debit Card,25,2024-04-22
+135,Product_115,Snacks,180,2,Delhi,Cash on Delivery,24,2024-05-03
+136,Product_62,Fruits,315,3,Bangalore,Credit Card,15,2024-01-06
+137,Product_151,Vegetables,197,1,Mumbai,Debit Card,19,2024-05-25
+138,Product_132,Dairy,176,1,Hyderabad,Cash on Delivery,11,2024-05-28
+139,Product_159,Fruits,124,4,Pune,UPI,23,2024-06-09
+140,Product_32,Fruits,340,5,Bangalore,UPI,12,2024-01-13
+141,Product_171,Dairy,96,2,Pune,Debit Card,9,2024-04-19
+142,Product_192,Fruits,51,2,Bangalore,Cash on Delivery,25,2024-03-10
+143,Product_58,Personal Care,438,4,Pune,Credit Card,13,2024-03-12
+144,Product_158,Snacks,427,1,Bangalore,UPI,18,2024-05-25
+145,Product_61,Fruits,319,3,Delhi,UPI,9,2024-02-08
+146,Product_96,Dairy,26,3,Kolkata,UPI,21,2024-01-04
+147,Product_200,Vegetables,216,4,Bangalore,Debit Card,10,2024-05-31
+148,Product_11,Dairy,148,4,Kolkata,Credit Card,16,2024-01-23
+149,Product_171,Personal Care,87,4,Kolkata,Cash on Delivery,25,2024-01-19
+150,Product_74,Vegetables,288,5,Chennai,Cash on Delivery,15,2024-04-15
+151,Product_113,Vegetables,180,5,Pune,Debit Card,20,2024-06-29
+152,Product_70,Snacks,315,4,Kolkata,Cash on Delivery,19,2024-05-06
+153,Product_135,Fruits,468,4,Kolkata,Debit Card,19,2024-03-29
+154,Product_189,Beverages,131,1,Bangalore,UPI,11,2024-03-09
+155,Product_46,Personal Care,181,3,Delhi,Credit Card,24,2024-05-20
+156,Product_78,Dairy,461,4,Mumbai,UPI,24,2024-03-31
+157,Product_9,Snacks,56,3,Chennai,Cash on Delivery,22,2024-06-18
+158,Product_111,Snacks,86,2,Mumbai,Cash on Delivery,20,2024-04-03
+159,Product_200,Beverages,422,5,Pune,UPI,23,2024-06-07
+160,Product_197,Vegetables,448,3,Chennai,UPI,25,2024-02-21
+161,Product_194,Fruits,347,4,Bangalore,Cash on Delivery,16,2024-04-30
+162,Product_59,Dairy,324,4,Kolkata,Cash on Delivery,8,2024-06-23
+163,Product_89,Dairy,440,2,Kolkata,Debit Card,18,2024-04-04
+164,Product_140,Snacks,250,2,Mumbai,Credit Card,17,2024-06-04
+165,Product_98,Personal Care,20,2,Mumbai,Credit Card,10,2024-02-05
+166,Product_55,Personal Care,161,2,Hyderabad,UPI,23,2024-01-10
+167,Product_58,Snacks,387,4,Delhi,Cash on Delivery,19,2024-01-27
+168,Product_90,Dairy,330,2,Bangalore,Debit Card,19,2024-01-17
+169,Product_87,Vegetables,424,4,Chennai,Credit Card,19,2024-04-27
+170,Product_200,Dairy,281,5,Hyderabad,Credit Card,20,2024-05-02
+171,Product_12,Household,144,1,Delhi,UPI,24,2024-06-29
+172,Product_150,Dairy,316,2,Pune,Credit Card,19,2024-02-24
+173,Product_148,Beverages,298,1,Chennai,Debit Card,22,2024-02-05
+174,Product_68,Dairy,197,2,Chennai,UPI,21,2024-03-21
+175,Product_188,Snacks,436,5,Kolkata,Cash on Delivery,23,2024-02-06
+176,Product_179,Household,326,4,Pune,Credit Card,8,2024-06-14
+177,Product_134,Dairy,173,3,Hyderabad,Debit Card,18,2024-06-24
+178,Product_4,Household,52,2,Bangalore,Cash on Delivery,11,2024-02-06
+179,Product_200,Snacks,126,5,Chennai,Debit Card,8,2024-03-23
+180,Product_196,Vegetables,292,4,Hyderabad,Cash on Delivery,11,2024-02-25
+181,Product_174,Dairy,470,1,Mumbai,Cash on Delivery,12,2024-05-18
+182,Product_116,Personal Care,143,1,Chennai,Credit Card,15,2024-01-27
+183,Product_78,Household,263,5,Kolkata,Debit Card,23,2024-05-31
+184,Product_106,Beverages,187,1,Bangalore,UPI,19,2024-04-24
+185,Product_26,Beverages,388,4,Pune,UPI,18,2024-03-02
+186,Product_101,Vegetables,192,1,Bangalore,Credit Card,12,2024-04-06
+187,Product_188,Vegetables,47,4,Pune,Debit Card,17,2024-04-30
+188,Product_191,Snacks,417,4,Kolkata,Cash on Delivery,22,2024-02-09
+189,Product_158,Beverages,282,4,Mumbai,Cash on Delivery,25,2024-06-23
+190,Product_26,Household,314,5,Mumbai,Debit Card,20,2024-04-02
+191,Product_25,Dairy,383,2,Hyderabad,Credit Card,25,2024-01-28
+192,Product_40,Household,325,4,Chennai,Debit Card,8,2024-03-05
+193,Product_124,Beverages,394,4,Pune,Debit Card,18,2024-05-20
+194,Product_41,Household,384,2,Bangalore,UPI,8,2024-03-25
+195,Product_194,Household,241,2,Kolkata,Cash on Delivery,23,2024-06-10
+196,Product_26,Fruits,412,4,Chennai,Credit Card,22,2024-04-13
+197,Product_199,Fruits,308,5,Mumbai,UPI,25,2024-04-01
+198,Product_10,Household,169,4,Mumbai,UPI,9,2024-02-19
+199,Product_92,Beverages,94,3,Bangalore,Debit Card,17,2024-05-19
+200,Product_55,Personal Care,85,5,Chennai,UPI,15,2024-04-01
+201,Product_154,Personal Care,489,5,Hyderabad,Cash on Delivery,17,2024-03-13
+202,Product_1,Beverages,448,4,Pune,Credit Card,18,2024-01-03
+203,Product_78,Vegetables,272,4,Pune,Debit Card,21,2024-06-25
+204,Product_8,Snacks,280,4,Bangalore,Debit Card,10,2024-02-29
+205,Product_150,Beverages,354,5,Delhi,Credit Card,16,2024-06-27
+206,Product_127,Personal Care,159,5,Kolkata,UPI,9,2024-06-08
+207,Product_24,Personal Care,109,2,Mumbai,Credit Card,20,2024-03-05
+208,Product_12,Fruits,121,4,Pune,Cash on Delivery,24,2024-02-08
+209,Product_17,Fruits,23,1,Mumbai,UPI,12,2024-01-19
+210,Product_99,Personal Care,194,5,Chennai,Cash on Delivery,11,2024-05-18
+211,Product_77,Snacks,476,2,Mumbai,UPI,20,2024-04-21
+212,Product_187,Beverages,409,3,Hyderabad,Credit Card,13,2024-03-17
+213,Product_117,Personal Care,244,2,Pune,Credit Card,12,2024-03-31
+214,Product_54,Snacks,96,4,Delhi,Debit Card,21,2024-05-08
+215,Product_149,Beverages,232,1,Delhi,UPI,23,2024-05-16
+216,Product_1,Beverages,420,3,Chennai,Debit Card,25,2024-05-08
+217,Product_30,Household,305,2,Chennai,Credit Card,21,2024-05-18
+218,Product_103,Household,327,2,Delhi,Cash on Delivery,10,2024-05-09
+219,Product_120,Dairy,179,5,Kolkata,UPI,18,2024-02-04
+220,Product_126,Dairy,191,4,Chennai,UPI,17,2024-04-12
+221,Product_155,Fruits,384,5,Kolkata,UPI,21,2024-06-08
+222,Product_93,Dairy,365,5,Kolkata,Debit Card,17,2024-01-01
+223,Product_164,Fruits,294,4,Mumbai,Credit Card,11,2024-04-23
+224,Product_163,Fruits,94,5,Hyderabad,Credit Card,25,2024-04-09
+225,Product_192,Dairy,311,3,Kolkata,UPI,25,2024-03-21
+226,Product_179,Dairy,465,5,Mumbai,UPI,10,2024-03-08
+227,Product_178,Snacks,485,5,Chennai,UPI,9,2024-05-29
+228,Product_122,Personal Care,436,5,Kolkata,UPI,9,2024-05-02
+229,Product_8,Dairy,352,2,Bangalore,UPI,21,2024-02-23
+230,Product_132,Beverages,308,3,Pune,UPI,20,2024-04-16
+231,Product_41,Snacks,26,4,Delhi,Debit Card,19,2024-01-02
+232,Product_51,Household,264,5,Chennai,Cash on Delivery,14,2024-02-08
+233,Product_138,Fruits,142,1,Pune,UPI,8,2024-03-30
+234,Product_137,Vegetables,94,5,Bangalore,UPI,14,2024-05-12
+235,Product_147,Vegetables,336,2,Chennai,Cash on Delivery,24,2024-06-28
+236,Product_29,Vegetables,499,1,Mumbai,Debit Card,9,2024-03-28
+237,Product_84,Beverages,429,1,Bangalore,UPI,15,2024-06-23
+238,Product_183,Snacks,180,5,Delhi,UPI,13,2024-02-09
+239,Product_66,Dairy,338,3,Hyderabad,Debit Card,14,2024-01-24
+240,Product_189,Vegetables,248,3,Chennai,Debit Card,17,2024-05-19
+241,Product_40,Beverages,62,5,Delhi,Credit Card,20,2024-05-12
+242,Product_193,Personal Care,142,4,Mumbai,UPI,8,2024-04-10
+243,Product_23,Beverages,181,5,Hyderabad,Cash on Delivery,22,2024-04-11
+244,Product_39,Beverages,257,2,Kolkata,Debit Card,12,2024-05-18
+245,Product_179,Beverages,240,4,Delhi,UPI,10,2024-03-11
+246,Product_10,Snacks,475,2,Chennai,Debit Card,17,2024-01-04
+247,Product_69,Dairy,29,5,Delhi,Debit Card,25,2024-01-20
+248,Product_12,Vegetables,202,4,Delhi,Cash on Delivery,20,2024-01-14
+249,Product_34,Vegetables,229,5,Hyderabad,Debit Card,17,2024-01-12
+250,Product_148,Dairy,25,2,Bangalore,UPI,21,2024-03-25
+251,Product_100,Fruits,59,4,Delhi,Credit Card,13,2024-06-27
+252,Product_152,Household,448,2,Kolkata,Cash on Delivery,8,2024-06-02
+253,Product_100,Dairy,97,3,Pune,Credit Card,21,2024-03-26
+254,Product_152,Fruits,345,2,Bangalore,Cash on Delivery,9,2024-02-24
+255,Product_79,Household,320,4,Hyderabad,Credit Card,21,2024-03-18
+256,Product_179,Household,391,2,Pune,Debit Card,12,2024-03-28
+257,Product_16,Household,247,5,Kolkata,Debit Card,15,2024-01-12
+258,Product_96,Beverages,167,5,Bangalore,Debit Card,16,2024-04-04
+259,Product_116,Vegetables,244,5,Bangalore,UPI,10,2024-03-17
+260,Product_99,Vegetables,94,5,Pune,Credit Card,14,2024-02-09
+261,Product_32,Fruits,135,5,Hyderabad,Credit Card,10,2024-01-27
+262,Product_120,Beverages,288,1,Mumbai,Debit Card,19,2024-05-22
+263,Product_68,Personal Care,276,4,Bangalore,Debit Card,24,2024-06-09
+264,Product_101,Fruits,253,4,Pune,Credit Card,8,2024-06-20
+265,Product_60,Dairy,373,5,Hyderabad,UPI,12,2024-04-01
+266,Product_196,Dairy,371,2,Mumbai,Cash on Delivery,25,2024-02-16
+267,Product_135,Dairy,143,5,Kolkata,Debit Card,15,2024-01-14
+268,Product_175,Personal Care,428,5,Pune,UPI,8,2024-06-05
+269,Product_78,Vegetables,184,3,Mumbai,UPI,16,2024-03-11
+270,Product_179,Dairy,171,2,Mumbai,Cash on Delivery,24,2024-03-14
+271,Product_1,Personal Care,379,2,Hyderabad,Credit Card,16,2024-05-28
+272,Product_134,Vegetables,116,4,Bangalore,Credit Card,19,2024-01-21
+273,Product_26,Dairy,331,4,Bangalore,Debit Card,22,2024-06-29
+274,Product_187,Personal Care,389,5,Mumbai,Debit Card,8,2024-01-20
+275,Product_169,Fruits,136,2,Hyderabad,Credit Card,19,2024-01-03
+276,Product_184,Snacks,330,4,Pune,Cash on Delivery,12,2024-01-02
+277,Product_189,Household,121,3,Kolkata,UPI,21,2024-02-27
+278,Product_121,Personal Care,32,1,Bangalore,Cash on Delivery,21,2024-05-28
+279,Product_136,Household,270,4,Delhi,Credit Card,18,2024-02-10
+280,Product_160,Snacks,449,2,Kolkata,Cash on Delivery,13,2024-04-20
+281,Product_130,Household,220,4,Pune,Debit Card,19,2024-01-02
+282,Product_3,Fruits,435,4,Pune,Credit Card,22,2024-05-18
+283,Product_48,Fruits,393,3,Mumbai,Credit Card,24,2024-06-25
+284,Product_25,Vegetables,471,5,Kolkata,Credit Card,11,2024-06-15
+285,Product_92,Vegetables,389,5,Chennai,Debit Card,13,2024-03-01
+286,Product_107,Vegetables,259,2,Delhi,Debit Card,8,2024-05-29
+287,Product_8,Vegetables,391,3,Mumbai,Debit Card,11,2024-02-03
+288,Product_70,Household,452,1,Chennai,Cash on Delivery,12,2024-01-23
+289,Product_32,Personal Care,130,2,Hyderabad,Credit Card,16,2024-05-18
+290,Product_98,Dairy,417,2,Kolkata,UPI,17,2024-02-25
+291,Product_87,Household,69,2,Hyderabad,Debit Card,23,2024-01-05
+292,Product_171,Vegetables,164,2,Mumbai,Credit Card,21,2024-02-09
+293,Product_119,Fruits,464,3,Delhi,Credit Card,21,2024-05-20
+294,Product_92,Vegetables,246,1,Hyderabad,UPI,25,2024-01-19
+295,Product_44,Dairy,310,5,Delhi,Debit Card,10,2024-01-08
+296,Product_17,Fruits,305,4,Hyderabad,Credit Card,17,2024-05-15
+297,Product_44,Fruits,196,3,Pune,UPI,20,2024-04-14
+298,Product_146,Fruits,494,4,Delhi,Debit Card,20,2024-02-24
+299,Product_61,Household,96,5,Pune,Debit Card,25,2024-05-19
+300,Product_160,Household,346,5,Pune,Debit Card,10,2024-01-29
+301,Product_160,Personal Care,292,3,Bangalore,Cash on Delivery,25,2024-05-08
+302,Product_128,Dairy,270,1,Delhi,Cash on Delivery,13,2024-05-30
+303,Product_69,Fruits,366,5,Delhi,Credit Card,24,2024-04-26
+304,Product_61,Household,47,2,Kolkata,Cash on Delivery,8,2024-01-02
+305,Product_28,Personal Care,173,2,Bangalore,Debit Card,12,2024-02-02
+306,Product_36,Dairy,470,4,Bangalore,Debit Card,23,2024-02-15
+307,Product_33,Dairy,201,5,Mumbai,Cash on Delivery,21,2024-02-26
+308,Product_179,Fruits,491,4,Chennai,Debit Card,11,2024-01-07
+309,Product_39,Beverages,316,5,Mumbai,UPI,25,2024-04-04
+310,Product_103,Vegetables,199,1,Kolkata,Cash on Delivery,12,2024-04-30
+311,Product_72,Dairy,337,5,Bangalore,Debit Card,18,2024-06-15
+312,Product_200,Snacks,343,5,Chennai,Credit Card,22,2024-06-22
+313,Product_138,Dairy,205,1,Mumbai,Cash on Delivery,23,2024-05-13
+314,Product_113,Vegetables,60,1,Chennai,Credit Card,10,2024-02-04
+315,Product_133,Beverages,498,4,Pune,UPI,24,2024-05-01
+316,Product_118,Fruits,95,4,Kolkata,UPI,23,2024-04-27
+317,Product_193,Beverages,475,5,Kolkata,Credit Card,17,2024-05-10
+318,Product_41,Dairy,402,4,Delhi,Debit Card,13,2024-05-31
+319,Product_37,Household,481,4,Delhi,Credit Card,16,2024-03-14
+320,Product_191,Fruits,286,5,Hyderabad,Credit Card,21,2024-05-03
+321,Product_158,Personal Care,493,2,Kolkata,UPI,19,2024-06-21
+322,Product_23,Dairy,30,2,Pune,Cash on Delivery,11,2024-03-22
+323,Product_200,Fruits,449,3,Delhi,Cash on Delivery,19,2024-03-17
+324,Product_59,Dairy,88,1,Chennai,UPI,13,2024-05-06
+325,Product_61,Personal Care,417,4,Hyderabad,Cash on Delivery,24,2024-01-27
+326,Product_108,Household,260,1,Delhi,Credit Card,13,2024-04-22
+327,Product_53,Vegetables,283,3,Bangalore,Cash on Delivery,10,2024-03-27
+328,Product_144,Personal Care,392,1,Hyderabad,Debit Card,23,2024-05-08
+329,Product_3,Fruits,299,3,Mumbai,Credit Card,15,2024-04-21
+330,Product_184,Vegetables,500,3,Delhi,UPI,11,2024-05-31
+331,Product_37,Beverages,279,2,Bangalore,Cash on Delivery,16,2024-04-23
+332,Product_50,Snacks,330,5,Delhi,Credit Card,24,2024-05-03
+333,Product_166,Dairy,32,3,Hyderabad,UPI,19,2024-05-13
+334,Product_48,Fruits,307,3,Mumbai,Cash on Delivery,23,2024-06-03
+335,Product_96,Vegetables,91,4,Hyderabad,UPI,17,2024-04-27
+336,Product_174,Snacks,244,3,Kolkata,UPI,15,2024-03-02
+337,Product_131,Beverages,227,1,Delhi,UPI,21,2024-03-01
+338,Product_177,Fruits,451,4,Delhi,Credit Card,11,2024-03-02
+339,Product_49,Dairy,166,2,Pune,Credit Card,24,2024-04-27
+340,Product_137,Household,285,5,Mumbai,Credit Card,25,2024-06-14
+341,Product_41,Personal Care,100,2,Pune,UPI,16,2024-02-23
+342,Product_17,Beverages,32,3,Delhi,Credit Card,13,2024-04-02
+343,Product_190,Household,435,2,Pune,UPI,8,2024-02-20
+344,Product_78,Personal Care,62,1,Mumbai,Debit Card,17,2024-06-24
+345,Product_98,Personal Care,235,4,Chennai,Credit Card,25,2024-04-19
+346,Product_161,Fruits,355,5,Bangalore,Debit Card,22,2024-06-25
+347,Product_151,Personal Care,488,3,Hyderabad,Credit Card,16,2024-05-16
+348,Product_89,Snacks,126,1,Chennai,Cash on Delivery,25,2024-05-25
+349,Product_181,Vegetables,254,1,Bangalore,UPI,24,2024-05-22
+350,Product_198,Fruits,193,4,Kolkata,Credit Card,15,2024-04-24
+351,Product_15,Vegetables,407,3,Chennai,UPI,16,2024-04-18
+352,Product_98,Snacks,168,2,Mumbai,UPI,20,2024-02-04
+353,Product_91,Vegetables,174,5,Mumbai,Debit Card,8,2024-06-11
+354,Product_51,Vegetables,213,1,Delhi,Cash on Delivery,24,2024-05-02
+355,Product_107,Beverages,463,5,Pune,Debit Card,18,2024-02-22
+356,Product_195,Household,220,5,Hyderabad,Credit Card,14,2024-05-19
+357,Product_185,Dairy,407,1,Bangalore,Debit Card,13,2024-01-02
+358,Product_147,Snacks,76,4,Kolkata,UPI,25,2024-05-23
+359,Product_74,Fruits,467,4,Mumbai,Credit Card,23,2024-02-19
+360,Product_16,Household,131,3,Hyderabad,Debit Card,25,2024-05-16
+361,Product_185,Snacks,378,4,Mumbai,Cash on Delivery,15,2024-06-18
+362,Product_28,Vegetables,197,4,Bangalore,UPI,9,2024-03-22
+363,Product_74,Vegetables,217,2,Hyderabad,Debit Card,18,2024-03-02
+364,Product_30,Snacks,419,1,Pune,Cash on Delivery,25,2024-03-10
+365,Product_85,Vegetables,356,2,Delhi,Credit Card,12,2024-06-28
+366,Product_64,Household,173,3,Bangalore,UPI,12,2024-03-27
+367,Product_44,Snacks,128,5,Pune,UPI,15,2024-03-25
+368,Product_146,Dairy,456,5,Kolkata,Credit Card,14,2024-01-06
+369,Product_10,Fruits,367,1,Pune,Credit Card,18,2024-05-12
+370,Product_4,Household,470,1,Kolkata,Credit Card,20,2024-03-22
+371,Product_159,Beverages,46,4,Mumbai,UPI,16,2024-01-24
+372,Product_158,Household,98,1,Chennai,Credit Card,13,2024-03-09
+373,Product_198,Fruits,143,5,Bangalore,Cash on Delivery,22,2024-01-30
+374,Product_149,Personal Care,475,3,Bangalore,Credit Card,11,2024-02-15
+375,Product_12,Household,434,5,Mumbai,Debit Card,22,2024-02-15
+376,Product_123,Snacks,241,2,Delhi,UPI,18,2024-02-02
+377,Product_25,Vegetables,182,4,Mumbai,Cash on Delivery,9,2024-03-29
+378,Product_94,Fruits,33,3,Bangalore,UPI,17,2024-04-14
+379,Product_6,Beverages,475,4,Mumbai,Cash on Delivery,25,2024-02-29
+380,Product_1,Snacks,283,3,Hyderabad,Cash on Delivery,17,2024-06-22
+381,Product_185,Vegetables,249,5,Hyderabad,Credit Card,23,2024-03-11
+382,Product_100,Dairy,231,5,Pune,UPI,8,2024-04-20
+383,Product_35,Snacks,317,1,Mumbai,Debit Card,18,2024-05-21
+384,Product_24,Dairy,410,5,Chennai,UPI,21,2024-01-31
+385,Product_101,Vegetables,485,5,Bangalore,UPI,18,2024-03-13
+386,Product_77,Personal Care,359,3,Chennai,Credit Card,17,2024-03-22
+387,Product_65,Vegetables,71,1,Chennai,Credit Card,23,2024-02-13
+388,Product_179,Vegetables,319,4,Mumbai,Debit Card,9,2024-02-05
+389,Product_16,Fruits,298,3,Kolkata,UPI,13,2024-01-14
+390,Product_125,Vegetables,193,5,Mumbai,Debit Card,12,2024-06-28
+391,Product_67,Dairy,206,4,Hyderabad,Credit Card,23,2024-02-01
+392,Product_129,Snacks,363,3,Bangalore,Credit Card,24,2024-02-16
+393,Product_198,Personal Care,491,3,Pune,UPI,16,2024-04-15
+394,Product_127,Household,427,5,Delhi,Credit Card,24,2024-01-02
+395,Product_73,Fruits,307,1,Kolkata,Credit Card,23,2024-04-18
+396,Product_192,Personal Care,352,2,Delhi,UPI,25,2024-06-22
+397,Product_156,Beverages,316,4,Bangalore,Debit Card,12,2024-03-28
+398,Product_12,Household,193,4,Kolkata,Credit Card,22,2024-02-07
+399,Product_170,Snacks,309,5,Delhi,Cash on Delivery,19,2024-02-01
+400,Product_167,Vegetables,337,2,Mumbai,UPI,19,2024-06-12
+401,Product_102,Snacks,55,2,Bangalore,Cash on Delivery,20,2024-01-18
+402,Product_195,Snacks,36,3,Bangalore,Debit Card,16,2024-01-17
+403,Product_93,Vegetables,334,4,Pune,Credit Card,13,2024-04-30
+404,Product_169,Beverages,189,2,Hyderabad,UPI,11,2024-02-27
+405,Product_172,Dairy,319,4,Kolkata,Cash on Delivery,19,2024-02-23
+406,Product_195,Dairy,241,1,Pune,UPI,21,2024-03-19
+407,Product_39,Dairy,165,3,Delhi,UPI,15,2024-03-07
+408,Product_47,Personal Care,297,1,Delhi,Debit Card,13,2024-03-30
+409,Product_4,Dairy,263,2,Kolkata,Cash on Delivery,18,2024-06-18
+410,Product_53,Vegetables,80,5,Kolkata,Cash on Delivery,11,2024-03-02
+411,Product_92,Beverages,171,3,Mumbai,UPI,22,2024-03-12
+412,Product_108,Snacks,61,3,Bangalore,Cash on Delivery,19,2024-02-15
+413,Product_38,Personal Care,115,5,Bangalore,Cash on Delivery,18,2024-01-21
+414,Product_46,Snacks,279,4,Bangalore,Debit Card,22,2024-05-27
+415,Product_76,Fruits,168,2,Hyderabad,Debit Card,13,2024-05-23
+416,Product_198,Beverages,41,1,Hyderabad,Debit Card,10,2024-04-23
+417,Product_186,Snacks,289,5,Delhi,Credit Card,24,2024-03-12
+418,Product_99,Vegetables,469,1,Pune,Debit Card,21,2024-04-07
+419,Product_69,Dairy,429,4,Mumbai,Debit Card,23,2024-06-08
+420,Product_176,Beverages,475,1,Delhi,UPI,25,2024-05-24
+421,Product_156,Vegetables,445,1,Hyderabad,Debit Card,24,2024-02-08
+422,Product_185,Snacks,292,4,Kolkata,UPI,19,2024-04-04
+423,Product_176,Snacks,318,2,Delhi,Credit Card,23,2024-05-02
+424,Product_52,Household,39,2,Hyderabad,Credit Card,19,2024-01-20
+425,Product_133,Dairy,353,1,Chennai,UPI,18,2024-04-17
+426,Product_146,Beverages,35,1,Kolkata,Debit Card,17,2024-05-09
+427,Product_117,Beverages,98,1,Mumbai,UPI,8,2024-05-30
+428,Product_93,Snacks,244,1,Hyderabad,Credit Card,15,2024-04-16
+429,Product_155,Household,51,2,Hyderabad,Cash on Delivery,8,2024-02-20
+430,Product_21,Dairy,414,3,Kolkata,Debit Card,25,2024-06-24
+431,Product_141,Fruits,131,5,Pune,Cash on Delivery,21,2024-01-16
+432,Product_25,Vegetables,72,1,Bangalore,UPI,21,2024-04-11
+433,Product_64,Dairy,383,4,Delhi,Debit Card,23,2024-01-16
+434,Product_87,Personal Care,478,2,Hyderabad,Debit Card,25,2024-05-26
+435,Product_49,Snacks,355,5,Delhi,Cash on Delivery,12,2024-03-07
+436,Product_113,Snacks,405,4,Mumbai,UPI,17,2024-05-25
+437,Product_162,Personal Care,345,2,Hyderabad,Credit Card,17,2024-05-12
+438,Product_200,Beverages,52,2,Delhi,Credit Card,15,2024-06-25
+439,Product_7,Dairy,155,4,Delhi,Cash on Delivery,25,2024-03-09
+440,Product_38,Fruits,340,4,Hyderabad,Debit Card,18,2024-06-09
+441,Product_94,Personal Care,77,1,Pune,Credit Card,16,2024-06-11
+442,Product_40,Snacks,180,4,Delhi,Credit Card,8,2024-01-13
+443,Product_65,Dairy,62,3,Pune,UPI,8,2024-01-28
+444,Product_196,Fruits,88,4,Chennai,Cash on Delivery,24,2024-05-23
+445,Product_110,Dairy,295,2,Kolkata,Credit Card,11,2024-03-02
+446,Product_58,Vegetables,156,2,Kolkata,Debit Card,22,2024-02-19
+447,Product_193,Vegetables,250,5,Kolkata,Debit Card,15,2024-03-01
+448,Product_76,Household,339,2,Kolkata,Cash on Delivery,11,2024-02-07
+449,Product_117,Personal Care,358,1,Pune,Credit Card,9,2024-01-11
+450,Product_22,Vegetables,196,2,Pune,Debit Card,8,2024-02-15
+451,Product_57,Household,270,4,Kolkata,Cash on Delivery,24,2024-01-23
+452,Product_170,Household,203,4,Delhi,Credit Card,8,2024-02-12
+453,Product_188,Fruits,379,3,Kolkata,UPI,12,2024-05-05
+454,Product_80,Beverages,473,5,Mumbai,Credit Card,18,2024-06-13
+455,Product_109,Fruits,483,3,Mumbai,Debit Card,12,2024-01-20
+456,Product_147,Household,325,3,Delhi,Debit Card,24,2024-05-23
+457,Product_94,Beverages,51,2,Hyderabad,Debit Card,18,2024-01-20
+458,Product_51,Fruits,100,2,Hyderabad,Credit Card,13,2024-04-12
+459,Product_167,Vegetables,266,3,Hyderabad,UPI,22,2024-06-11
+460,Product_144,Personal Care,121,1,Pune,Credit Card,13,2024-05-11
+461,Product_81,Vegetables,387,1,Delhi,Credit Card,18,2024-06-13
+462,Product_178,Fruits,20,1,Kolkata,Credit Card,15,2024-06-03
+463,Product_93,Beverages,452,4,Pune,UPI,13,2024-01-25
+464,Product_136,Snacks,468,3,Mumbai,Cash on Delivery,8,2024-05-12
+465,Product_165,Personal Care,383,2,Kolkata,UPI,17,2024-06-13
+466,Product_16,Personal Care,223,2,Delhi,Cash on Delivery,12,2024-03-21
+467,Product_26,Vegetables,156,4,Bangalore,Credit Card,23,2024-04-29
+468,Product_34,Snacks,154,5,Hyderabad,UPI,19,2024-03-03
+469,Product_141,Fruits,344,2,Hyderabad,Credit Card,22,2024-06-26
+470,Product_175,Personal Care,217,5,Mumbai,Credit Card,21,2024-02-04
+471,Product_167,Personal Care,423,3,Chennai,UPI,18,2024-01-22
+472,Product_96,Vegetables,33,3,Delhi,Cash on Delivery,10,2024-04-18
+473,Product_76,Personal Care,265,1,Bangalore,UPI,18,2024-04-05
+474,Product_109,Household,486,4,Delhi,Credit Card,10,2024-05-03
+475,Product_167,Dairy,76,5,Kolkata,Cash on Delivery,19,2024-01-30
+476,Product_84,Snacks,82,5,Pune,Cash on Delivery,17,2024-05-04
+477,Product_109,Personal Care,267,1,Bangalore,Credit Card,19,2024-03-17
+478,Product_17,Vegetables,76,4,Chennai,Cash on Delivery,11,2024-06-12
+479,Product_43,Snacks,23,1,Chennai,UPI,12,2024-01-13
+480,Product_55,Personal Care,391,2,Pune,UPI,15,2024-05-20
+481,Product_164,Snacks,368,3,Kolkata,Credit Card,12,2024-02-23
+482,Product_83,Dairy,136,4,Chennai,UPI,20,2024-05-26
+483,Product_43,Snacks,323,1,Pune,Cash on Delivery,11,2024-01-14
+484,Product_120,Vegetables,127,4,Bangalore,Cash on Delivery,22,2024-06-28
+485,Product_141,Household,216,2,Chennai,Credit Card,10,2024-01-09
+486,Product_115,Fruits,283,5,Bangalore,Cash on Delivery,18,2024-04-04
+487,Product_102,Beverages,285,3,Bangalore,Cash on Delivery,21,2024-06-21
+488,Product_199,Fruits,371,1,Bangalore,Cash on Delivery,11,2024-02-17
+489,Product_42,Beverages,217,4,Hyderabad,Debit Card,23,2024-02-17
+490,Product_160,Dairy,260,1,Pune,Credit Card,8,2024-04-22
+491,Product_194,Beverages,351,4,Delhi,UPI,25,2024-06-21
+492,Product_75,Snacks,82,2,Mumbai,Cash on Delivery,24,2024-04-28
+493,Product_26,Vegetables,352,1,Chennai,Credit Card,15,2024-05-02
+494,Product_23,Vegetables,97,3,Kolkata,Cash on Delivery,10,2024-06-26
+495,Product_134,Household,475,1,Bangalore,Credit Card,9,2024-03-19
+496,Product_141,Personal Care,254,2,Pune,UPI,15,2024-01-07
+497,Product_160,Snacks,136,4,Delhi,Credit Card,12,2024-06-17
+498,Product_59,Fruits,255,2,Pune,Credit Card,24,2024-03-29
+499,Product_7,Fruits,425,1,Delhi,UPI,22,2024-06-07
+500,Product_54,Fruits,142,2,Kolkata,Credit Card,10,2024-04-14
+501,Product_104,Vegetables,392,3,Mumbai,UPI,14,2024-02-07
+502,Product_104,Personal Care,410,2,Chennai,Cash on Delivery,24,2024-02-02
+503,Product_27,Dairy,453,4,Mumbai,Cash on Delivery,15,2024-02-20
+504,Product_16,Vegetables,225,5,Delhi,Debit Card,14,2024-01-08
+505,Product_180,Vegetables,123,4,Chennai,UPI,17,2024-02-19
+506,Product_141,Snacks,320,2,Pune,Credit Card,16,2024-02-08
+507,Product_89,Beverages,80,5,Kolkata,Cash on Delivery,22,2024-01-30
+508,Product_192,Beverages,120,5,Bangalore,Debit Card,19,2024-01-22
+509,Product_62,Snacks,369,2,Hyderabad,Cash on Delivery,11,2024-03-28
+510,Product_171,Personal Care,192,5,Pune,Debit Card,23,2024-06-25
+511,Product_25,Personal Care,402,4,Pune,Credit Card,16,2024-06-14
+512,Product_2,Dairy,57,1,Chennai,Credit Card,15,2024-03-17
+513,Product_134,Personal Care,200,2,Mumbai,Cash on Delivery,22,2024-01-09
+514,Product_185,Fruits,364,2,Chennai,UPI,24,2024-04-23
+515,Product_91,Snacks,30,2,Kolkata,Credit Card,22,2024-02-07
+516,Product_137,Household,165,4,Bangalore,UPI,12,2024-05-27
+517,Product_71,Beverages,33,4,Bangalore,UPI,8,2024-01-16
+518,Product_149,Beverages,392,4,Bangalore,Cash on Delivery,19,2024-05-18
+519,Product_119,Beverages,80,3,Delhi,Debit Card,24,2024-05-31
+520,Product_195,Household,320,1,Mumbai,Debit Card,13,2024-05-03
+521,Product_24,Beverages,170,1,Delhi,UPI,10,2024-02-20
+522,Product_27,Beverages,475,2,Delhi,UPI,22,2024-02-28
+523,Product_147,Snacks,75,4,Chennai,Credit Card,14,2024-04-08
+524,Product_51,Vegetables,390,4,Pune,Cash on Delivery,8,2024-04-28
+525,Product_113,Vegetables,82,4,Bangalore,Credit Card,12,2024-04-12
+526,Product_15,Vegetables,314,2,Hyderabad,Debit Card,23,2024-03-06
+527,Product_36,Fruits,227,3,Chennai,Cash on Delivery,24,2024-04-06
+528,Product_199,Vegetables,467,2,Hyderabad,Debit Card,15,2024-04-30
+529,Product_10,Beverages,354,3,Delhi,Cash on Delivery,8,2024-04-05
+530,Product_4,Snacks,343,3,Kolkata,Credit Card,16,2024-05-01
+531,Product_3,Personal Care,415,3,Chennai,Cash on Delivery,9,2024-04-22
+532,Product_58,Vegetables,46,2,Chennai,Debit Card,14,2024-06-11
+533,Product_57,Snacks,290,5,Bangalore,Cash on Delivery,19,2024-06-13
+534,Product_164,Snacks,306,1,Pune,Cash on Delivery,23,2024-03-02
+535,Product_128,Dairy,253,4,Pune,UPI,19,2024-01-04
+536,Product_75,Dairy,228,3,Chennai,Cash on Delivery,12,2024-02-11
+537,Product_61,Fruits,423,4,Chennai,UPI,12,2024-04-28
+538,Product_23,Vegetables,407,1,Hyderabad,Cash on Delivery,13,2024-05-10
+539,Product_151,Dairy,289,1,Kolkata,UPI,21,2024-02-03
+540,Product_6,Beverages,331,2,Pune,Debit Card,15,2024-06-02
+541,Product_162,Snacks,58,4,Pune,UPI,15,2024-06-22
+542,Product_120,Vegetables,221,1,Delhi,Cash on Delivery,24,2024-04-11
+543,Product_10,Fruits,448,5,Delhi,Credit Card,14,2024-02-12
+544,Product_191,Dairy,389,5,Pune,Cash on Delivery,21,2024-05-27
+545,Product_7,Household,183,1,Chennai,Debit Card,15,2024-05-01
+546,Product_148,Vegetables,51,1,Delhi,Cash on Delivery,11,2024-01-05
+547,Product_47,Personal Care,337,5,Hyderabad,Cash on Delivery,13,2024-01-07
+548,Product_71,Household,149,4,Pune,Debit Card,23,2024-05-03
+549,Product_194,Household,410,3,Pune,Cash on Delivery,24,2024-05-04
+550,Product_33,Dairy,461,3,Hyderabad,Credit Card,8,2024-01-13
+551,Product_52,Household,325,3,Mumbai,Debit Card,19,2024-02-16
+552,Product_96,Vegetables,484,3,Hyderabad,Credit Card,18,2024-06-05
+553,Product_127,Beverages,280,5,Pune,Cash on Delivery,20,2024-04-24
+554,Product_121,Fruits,220,3,Bangalore,Cash on Delivery,12,2024-04-29
+555,Product_139,Personal Care,412,5,Hyderabad,UPI,11,2024-01-08
+556,Product_46,Household,473,3,Bangalore,Debit Card,23,2024-02-21
+557,Product_147,Household,391,1,Hyderabad,Credit Card,11,2024-04-29
+558,Product_18,Beverages,457,5,Pune,Debit Card,14,2024-04-26
+559,Product_125,Dairy,293,5,Mumbai,Cash on Delivery,21,2024-04-19
+560,Product_96,Vegetables,455,4,Bangalore,Credit Card,11,2024-02-06
+561,Product_31,Dairy,412,4,Pune,Cash on Delivery,13,2024-04-26
+562,Product_103,Personal Care,23,2,Hyderabad,UPI,9,2024-02-26
+563,Product_151,Snacks,33,1,Mumbai,UPI,14,2024-05-07
+564,Product_22,Fruits,163,2,Delhi,Debit Card,13,2024-04-18
+565,Product_11,Fruits,72,4,Delhi,Debit Card,23,2024-06-13
+566,Product_194,Dairy,41,2,Hyderabad,Debit Card,22,2024-03-21
+567,Product_163,Dairy,455,2,Pune,Debit Card,14,2024-03-12
+568,Product_58,Fruits,123,2,Hyderabad,Cash on Delivery,10,2024-01-09
+569,Product_193,Personal Care,346,2,Delhi,Credit Card,22,2024-04-30
+570,Product_21,Fruits,308,4,Delhi,UPI,13,2024-06-01
+571,Product_87,Beverages,194,3,Hyderabad,UPI,19,2024-02-12
+572,Product_148,Vegetables,120,4,Bangalore,Cash on Delivery,17,2024-05-31
+573,Product_59,Fruits,497,5,Mumbai,Cash on Delivery,21,2024-03-03
+574,Product_52,Snacks,115,4,Delhi,Credit Card,9,2024-03-13
+575,Product_7,Household,391,2,Kolkata,Cash on Delivery,18,2024-05-07
+576,Product_51,Vegetables,307,5,Kolkata,Credit Card,23,2024-03-05
+577,Product_153,Snacks,153,4,Hyderabad,UPI,18,2024-06-29
+578,Product_97,Beverages,86,1,Hyderabad,UPI,8,2024-02-01
+579,Product_15,Dairy,275,3,Bangalore,Credit Card,9,2024-05-14
+580,Product_196,Snacks,405,5,Chennai,Credit Card,23,2024-06-26
+581,Product_162,Beverages,242,1,Bangalore,Credit Card,20,2024-06-19
+582,Product_95,Snacks,129,4,Mumbai,Credit Card,9,2024-04-18
+583,Product_139,Vegetables,209,3,Bangalore,Cash on Delivery,18,2024-06-22
+584,Product_150,Fruits,63,5,Pune,Cash on Delivery,13,2024-05-07
+585,Product_80,Dairy,179,2,Hyderabad,Cash on Delivery,24,2024-05-17
+586,Product_105,Dairy,163,5,Hyderabad,UPI,17,2024-01-21
+587,Product_149,Vegetables,254,4,Bangalore,Debit Card,13,2024-03-21
+588,Product_78,Snacks,201,4,Pune,Debit Card,20,2024-03-28
+589,Product_19,Household,255,3,Hyderabad,Cash on Delivery,14,2024-05-27
+590,Product_162,Vegetables,500,1,Pune,Credit Card,25,2024-05-29
+591,Product_144,Vegetables,443,5,Bangalore,Credit Card,21,2024-03-28
+592,Product_88,Dairy,390,1,Bangalore,Cash on Delivery,20,2024-02-23
+593,Product_105,Vegetables,187,1,Hyderabad,Credit Card,13,2024-04-15
+594,Product_4,Fruits,203,1,Delhi,UPI,11,2024-06-22
+595,Product_81,Beverages,108,2,Bangalore,Debit Card,11,2024-05-10
+596,Product_39,Personal Care,108,5,Bangalore,Debit Card,8,2024-01-30
+597,Product_41,Snacks,157,4,Kolkata,UPI,25,2024-06-20
+598,Product_110,Fruits,363,2,Mumbai,UPI,19,2024-06-26
+599,Product_146,Vegetables,128,5,Chennai,Debit Card,12,2024-05-02
+600,Product_7,Fruits,403,3,Chennai,Cash on Delivery,20,2024-03-21
+601,Product_163,Fruits,237,4,Delhi,Cash on Delivery,24,2024-02-17
+602,Product_68,Beverages,94,3,Bangalore,Credit Card,19,2024-02-22
+603,Product_181,Dairy,417,5,Hyderabad,UPI,13,2024-02-04
+604,Product_60,Personal Care,81,3,Mumbai,Cash on Delivery,15,2024-05-30
+605,Product_173,Vegetables,114,2,Delhi,Cash on Delivery,24,2024-03-14
+606,Product_192,Snacks,243,3,Mumbai,Cash on Delivery,15,2024-02-28
+607,Product_155,Personal Care,333,4,Mumbai,Cash on Delivery,11,2024-04-20
+608,Product_198,Fruits,345,4,Chennai,UPI,15,2024-06-08
+609,Product_126,Personal Care,50,3,Chennai,Cash on Delivery,24,2024-05-18
+610,Product_12,Fruits,429,2,Pune,Credit Card,12,2024-03-11
+611,Product_198,Fruits,144,1,Bangalore,Debit Card,17,2024-01-31
+612,Product_34,Fruits,363,1,Bangalore,Debit Card,19,2024-04-01
+613,Product_65,Vegetables,308,3,Hyderabad,Cash on Delivery,23,2024-01-21
+614,Product_173,Household,434,1,Bangalore,UPI,17,2024-04-04
+615,Product_2,Snacks,264,3,Chennai,Cash on Delivery,18,2024-03-26
+616,Product_108,Snacks,134,5,Pune,Debit Card,12,2024-04-06
+617,Product_39,Household,369,5,Pune,Cash on Delivery,25,2024-06-07
+618,Product_188,Beverages,223,2,Kolkata,UPI,11,2024-03-16
+619,Product_11,Fruits,323,1,Hyderabad,UPI,11,2024-01-28
+620,Product_167,Dairy,92,5,Pune,Debit Card,15,2024-01-09
+621,Product_157,Vegetables,33,4,Bangalore,Cash on Delivery,21,2024-01-22
+622,Product_138,Personal Care,414,4,Bangalore,Credit Card,24,2024-06-20
+623,Product_141,Household,277,4,Bangalore,Credit Card,15,2024-03-02
+624,Product_136,Beverages,495,2,Pune,Debit Card,24,2024-03-31
+625,Product_105,Household,356,2,Chennai,Credit Card,20,2024-02-03
+626,Product_155,Beverages,57,3,Kolkata,Debit Card,10,2024-06-12
+627,Product_161,Household,200,2,Mumbai,Credit Card,24,2024-02-07
+628,Product_129,Household,115,2,Hyderabad,Cash on Delivery,16,2024-05-31
+629,Product_85,Snacks,241,3,Chennai,Cash on Delivery,8,2024-03-26
+630,Product_16,Snacks,56,5,Mumbai,Cash on Delivery,20,2024-03-25
+631,Product_130,Fruits,344,2,Chennai,UPI,22,2024-02-23
+632,Product_87,Vegetables,188,1,Pune,UPI,22,2024-06-26
+633,Product_133,Household,450,4,Hyderabad,Cash on Delivery,21,2024-01-08
+634,Product_140,Fruits,260,3,Kolkata,Credit Card,14,2024-03-29
+635,Product_186,Vegetables,477,3,Bangalore,Credit Card,16,2024-03-19
+636,Product_153,Dairy,192,5,Kolkata,Credit Card,9,2024-01-07
+637,Product_46,Personal Care,84,1,Bangalore,UPI,8,2024-02-27
+638,Product_5,Snacks,94,4,Pune,Debit Card,8,2024-05-16
+639,Product_21,Dairy,408,1,Bangalore,UPI,15,2024-03-25
+640,Product_124,Dairy,33,4,Delhi,UPI,24,2024-05-23
+641,Product_35,Personal Care,140,2,Chennai,Debit Card,19,2024-01-30
+642,Product_35,Personal Care,494,3,Hyderabad,UPI,12,2024-03-01
+643,Product_60,Personal Care,180,1,Pune,Debit Card,23,2024-05-19
+644,Product_192,Fruits,79,2,Chennai,Debit Card,21,2024-04-24
+645,Product_66,Beverages,21,5,Chennai,Credit Card,8,2024-02-25
+646,Product_33,Vegetables,300,5,Chennai,Cash on Delivery,20,2024-03-26
+647,Product_66,Household,460,3,Kolkata,UPI,17,2024-06-06
+648,Product_11,Vegetables,42,3,Pune,Cash on Delivery,17,2024-05-13
+649,Product_130,Beverages,110,2,Delhi,UPI,21,2024-05-07
+650,Product_136,Fruits,401,4,Chennai,Debit Card,8,2024-04-20
+651,Product_89,Snacks,169,5,Pune,Debit Card,20,2024-01-21
+652,Product_1,Beverages,211,4,Chennai,Debit Card,14,2024-03-31
+653,Product_99,Beverages,313,1,Mumbai,Cash on Delivery,16,2024-01-12
+654,Product_84,Fruits,424,1,Bangalore,Cash on Delivery,24,2024-06-29
+655,Product_195,Fruits,426,3,Hyderabad,Debit Card,23,2024-02-19
+656,Product_124,Household,315,5,Mumbai,Cash on Delivery,16,2024-05-13
+657,Product_198,Dairy,145,2,Bangalore,Debit Card,9,2024-02-27
+658,Product_156,Vegetables,387,1,Bangalore,Credit Card,11,2024-04-10
+659,Product_152,Household,428,5,Bangalore,UPI,12,2024-05-04
+660,Product_12,Fruits,211,5,Mumbai,Credit Card,13,2024-03-29
+661,Product_47,Personal Care,343,1,Kolkata,UPI,19,2024-05-08
+662,Product_172,Snacks,424,3,Chennai,Credit Card,22,2024-01-21
+663,Product_67,Beverages,91,4,Hyderabad,Cash on Delivery,16,2024-02-14
+664,Product_195,Beverages,400,4,Kolkata,UPI,22,2024-01-08
+665,Product_35,Personal Care,260,4,Chennai,Credit Card,8,2024-02-01
+666,Product_113,Dairy,479,4,Delhi,Cash on Delivery,21,2024-03-15
+667,Product_17,Fruits,154,1,Delhi,Cash on Delivery,11,2024-05-02
+668,Product_112,Snacks,280,2,Hyderabad,Cash on Delivery,8,2024-03-20
+669,Product_100,Household,124,1,Chennai,Debit Card,19,2024-02-07
+670,Product_119,Vegetables,133,2,Hyderabad,Cash on Delivery,17,2024-04-11
+671,Product_35,Beverages,264,2,Mumbai,UPI,24,2024-03-13
+672,Product_116,Snacks,192,2,Delhi,Credit Card,16,2024-04-15
+673,Product_58,Beverages,281,2,Hyderabad,Cash on Delivery,16,2024-03-22
+674,Product_90,Vegetables,142,1,Chennai,Credit Card,16,2024-02-13
+675,Product_152,Beverages,341,3,Mumbai,UPI,16,2024-06-21
+676,Product_53,Personal Care,312,1,Pune,UPI,23,2024-05-17
+677,Product_199,Dairy,329,1,Delhi,Credit Card,9,2024-03-04
+678,Product_135,Snacks,79,3,Kolkata,UPI,17,2024-01-28
+679,Product_81,Beverages,463,5,Bangalore,Cash on Delivery,15,2024-06-08
+680,Product_108,Personal Care,91,3,Bangalore,Cash on Delivery,21,2024-06-22
+681,Product_170,Dairy,467,5,Kolkata,Credit Card,10,2024-02-22
+682,Product_27,Dairy,426,4,Pune,UPI,13,2024-02-26
+683,Product_36,Snacks,284,2,Delhi,Credit Card,23,2024-06-01
+684,Product_181,Beverages,391,4,Bangalore,Debit Card,21,2024-02-12
+685,Product_46,Fruits,62,5,Kolkata,Credit Card,22,2024-01-21
+686,Product_2,Beverages,404,3,Mumbai,Cash on Delivery,10,2024-04-08
+687,Product_153,Dairy,428,4,Hyderabad,UPI,19,2024-04-02
+688,Product_192,Vegetables,270,2,Chennai,Debit Card,8,2024-02-28
+689,Product_100,Personal Care,389,1,Pune,Debit Card,8,2024-06-24
+690,Product_171,Dairy,89,4,Pune,UPI,15,2024-05-13
+691,Product_113,Vegetables,265,5,Mumbai,Credit Card,18,2024-03-09
+692,Product_113,Household,278,2,Hyderabad,Debit Card,20,2024-01-26
+693,Product_163,Fruits,99,1,Mumbai,Cash on Delivery,10,2024-04-06
+694,Product_99,Dairy,368,1,Chennai,UPI,23,2024-04-11
+695,Product_130,Fruits,224,4,Delhi,Debit Card,21,2024-04-13
+696,Product_127,Snacks,350,4,Chennai,Credit Card,11,2024-03-12
+697,Product_70,Personal Care,432,4,Pune,UPI,19,2024-05-11
+698,Product_168,Household,350,1,Pune,UPI,16,2024-04-30
+699,Product_59,Fruits,468,4,Chennai,Credit Card,12,2024-04-10
+700,Product_120,Vegetables,50,2,Bangalore,UPI,18,2024-01-30
+701,Product_39,Personal Care,31,5,Bangalore,Credit Card,14,2024-02-05
+702,Product_29,Personal Care,27,5,Mumbai,UPI,11,2024-06-29
+703,Product_178,Dairy,292,2,Chennai,UPI,20,2024-04-28
+704,Product_100,Beverages,367,2,Hyderabad,Debit Card,18,2024-01-08
+705,Product_145,Fruits,276,5,Pune,Credit Card,21,2024-05-22
+706,Product_178,Fruits,37,2,Hyderabad,UPI,16,2024-06-03
+707,Product_101,Household,174,4,Bangalore,Debit Card,18,2024-02-26
+708,Product_180,Snacks,393,5,Kolkata,Credit Card,8,2024-06-27
+709,Product_113,Beverages,149,4,Pune,Credit Card,22,2024-03-25
+710,Product_169,Fruits,178,1,Mumbai,Debit Card,14,2024-04-02
+711,Product_62,Fruits,145,5,Delhi,Cash on Delivery,10,2024-02-16
+712,Product_45,Snacks,38,1,Pune,Cash on Delivery,9,2024-02-09
+713,Product_190,Snacks,329,3,Hyderabad,UPI,18,2024-02-21
+714,Product_75,Household,203,2,Pune,Cash on Delivery,25,2024-01-08
+715,Product_85,Fruits,192,4,Bangalore,Cash on Delivery,9,2024-05-19
+716,Product_43,Dairy,158,2,Chennai,Debit Card,25,2024-05-14
+717,Product_155,Fruits,37,5,Kolkata,Cash on Delivery,11,2024-06-19
+718,Product_93,Household,234,5,Delhi,Debit Card,25,2024-04-25
+719,Product_175,Dairy,183,3,Hyderabad,Debit Card,10,2024-01-13
+720,Product_174,Vegetables,456,4,Kolkata,Cash on Delivery,11,2024-05-17
+721,Product_172,Personal Care,374,5,Hyderabad,Debit Card,11,2024-03-04
+722,Product_23,Fruits,359,3,Pune,Credit Card,17,2024-04-28
+723,Product_180,Fruits,331,2,Delhi,Credit Card,22,2024-05-20
+724,Product_34,Vegetables,439,2,Kolkata,UPI,19,2024-01-09
+725,Product_184,Snacks,328,3,Delhi,Credit Card,18,2024-01-21
+726,Product_122,Fruits,375,3,Kolkata,Debit Card,19,2024-05-29
+727,Product_44,Snacks,495,5,Delhi,Credit Card,13,2024-05-25
+728,Product_109,Personal Care,422,4,Kolkata,Debit Card,21,2024-04-14
+729,Product_74,Fruits,287,1,Mumbai,Debit Card,25,2024-01-17
+730,Product_117,Snacks,428,4,Mumbai,UPI,15,2024-03-08
+731,Product_157,Personal Care,278,5,Kolkata,UPI,14,2024-05-09
+732,Product_77,Household,170,5,Chennai,UPI,14,2024-06-20
+733,Product_118,Vegetables,171,1,Kolkata,Credit Card,21,2024-06-28
+734,Product_131,Fruits,250,1,Chennai,Credit Card,15,2024-02-14
+735,Product_175,Vegetables,454,2,Bangalore,UPI,22,2024-06-07
+736,Product_15,Snacks,428,1,Delhi,Cash on Delivery,19,2024-01-24
+737,Product_47,Snacks,456,2,Bangalore,UPI,15,2024-01-04
+738,Product_82,Household,443,1,Kolkata,Debit Card,17,2024-02-07
+739,Product_176,Snacks,399,2,Hyderabad,Cash on Delivery,17,2024-04-10
+740,Product_79,Vegetables,152,5,Mumbai,Cash on Delivery,16,2024-06-10
+741,Product_107,Household,337,5,Hyderabad,Cash on Delivery,24,2024-05-20
+742,Product_156,Beverages,443,2,Delhi,Cash on Delivery,9,2024-03-29
+743,Product_123,Fruits,134,4,Chennai,Credit Card,15,2024-04-04
+744,Product_133,Vegetables,114,4,Chennai,Cash on Delivery,14,2024-02-23
+745,Product_8,Household,471,1,Hyderabad,UPI,11,2024-02-04
+746,Product_58,Personal Care,150,4,Kolkata,Debit Card,12,2024-05-02
+747,Product_139,Snacks,26,2,Mumbai,Cash on Delivery,25,2024-06-14
+748,Product_121,Snacks,166,5,Mumbai,Cash on Delivery,25,2024-03-16
+749,Product_165,Dairy,270,4,Pune,Credit Card,15,2024-03-24
+750,Product_181,Household,258,1,Mumbai,UPI,24,2024-04-07
+751,Product_42,Beverages,162,2,Mumbai,Credit Card,15,2024-05-27
+752,Product_94,Personal Care,410,2,Hyderabad,UPI,23,2024-03-14
+753,Product_161,Fruits,204,1,Mumbai,Debit Card,15,2024-04-30
+754,Product_182,Personal Care,172,4,Kolkata,Credit Card,15,2024-02-17
+755,Product_48,Household,157,4,Chennai,UPI,23,2024-05-13
+756,Product_22,Household,174,3,Mumbai,Cash on Delivery,10,2024-03-24
+757,Product_29,Personal Care,413,1,Kolkata,Cash on Delivery,9,2024-05-25
+758,Product_168,Vegetables,383,5,Mumbai,Debit Card,15,2024-01-24
+759,Product_3,Vegetables,414,4,Kolkata,Cash on Delivery,19,2024-06-04
+760,Product_162,Household,215,1,Pune,UPI,15,2024-03-19
+761,Product_78,Fruits,156,2,Hyderabad,UPI,8,2024-02-20
+762,Product_101,Dairy,288,1,Delhi,Credit Card,16,2024-01-15
+763,Product_196,Fruits,146,2,Mumbai,UPI,16,2024-04-14
+764,Product_154,Personal Care,324,3,Kolkata,Debit Card,23,2024-04-07
+765,Product_182,Dairy,482,2,Bangalore,UPI,13,2024-04-30
+766,Product_35,Fruits,43,3,Chennai,Cash on Delivery,24,2024-05-19
+767,Product_57,Dairy,497,5,Delhi,UPI,12,2024-06-26
+768,Product_57,Personal Care,37,1,Bangalore,Cash on Delivery,22,2024-01-24
+769,Product_194,Snacks,321,5,Kolkata,UPI,24,2024-01-28
+770,Product_194,Snacks,266,2,Chennai,Credit Card,11,2024-01-12
+771,Product_150,Personal Care,446,1,Chennai,Debit Card,23,2024-04-12
+772,Product_58,Beverages,224,1,Kolkata,UPI,21,2024-01-22
+773,Product_8,Fruits,130,1,Kolkata,Credit Card,21,2024-05-15
+774,Product_85,Fruits,338,3,Bangalore,UPI,9,2024-01-03
+775,Product_13,Beverages,276,4,Delhi,Debit Card,18,2024-06-04
+776,Product_126,Dairy,321,1,Mumbai,Credit Card,11,2024-06-09
+777,Product_100,Beverages,211,3,Pune,Cash on Delivery,17,2024-05-04
+778,Product_63,Household,119,1,Bangalore,Debit Card,13,2024-04-28
+779,Product_18,Beverages,122,4,Chennai,Debit Card,11,2024-03-29
+780,Product_138,Vegetables,228,1,Pune,Cash on Delivery,18,2024-03-22
+781,Product_152,Vegetables,251,4,Bangalore,UPI,22,2024-01-23
+782,Product_53,Snacks,245,3,Hyderabad,Cash on Delivery,20,2024-03-29
+783,Product_24,Dairy,197,1,Chennai,UPI,21,2024-01-22
+784,Product_127,Personal Care,239,1,Kolkata,Cash on Delivery,17,2024-03-30
+785,Product_187,Snacks,269,3,Bangalore,UPI,8,2024-03-18
+786,Product_182,Beverages,415,3,Delhi,Credit Card,13,2024-03-28
+787,Product_102,Fruits,222,3,Delhi,UPI,11,2024-03-10
+788,Product_113,Fruits,150,5,Delhi,Debit Card,17,2024-03-19
+789,Product_75,Household,449,4,Delhi,UPI,17,2024-02-02
+790,Product_17,Fruits,392,1,Delhi,Credit Card,12,2024-03-06
+791,Product_173,Fruits,146,1,Bangalore,Credit Card,24,2024-05-02
+792,Product_4,Beverages,257,4,Hyderabad,Credit Card,15,2024-01-18
+793,Product_23,Fruits,223,5,Bangalore,Cash on Delivery,22,2024-01-20
+794,Product_177,Snacks,56,3,Chennai,UPI,11,2024-05-10
+795,Product_29,Snacks,371,3,Mumbai,UPI,11,2024-06-03
+796,Product_109,Dairy,490,3,Pune,Cash on Delivery,14,2024-01-03
+797,Product_43,Dairy,342,5,Pune,Debit Card,9,2024-06-24
+798,Product_124,Dairy,62,4,Pune,Cash on Delivery,20,2024-04-02
+799,Product_17,Snacks,167,3,Hyderabad,Debit Card,23,2024-01-23
+800,Product_129,Household,165,2,Pune,Cash on Delivery,23,2024-04-09
+801,Product_170,Household,259,1,Hyderabad,UPI,10,2024-06-27
+802,Product_63,Beverages,424,2,Chennai,Cash on Delivery,9,2024-02-03
+803,Product_77,Dairy,159,4,Bangalore,Debit Card,25,2024-04-10
+804,Product_27,Snacks,471,1,Hyderabad,Credit Card,12,2024-01-22
+805,Product_154,Beverages,289,1,Kolkata,Cash on Delivery,13,2024-01-12
+806,Product_139,Vegetables,164,2,Hyderabad,Debit Card,9,2024-03-19
+807,Product_138,Snacks,392,3,Chennai,Credit Card,21,2024-04-10
+808,Product_116,Household,338,3,Chennai,Debit Card,10,2024-05-19
+809,Product_166,Vegetables,268,2,Kolkata,Debit Card,16,2024-03-01
+810,Product_112,Fruits,483,2,Pune,Debit Card,18,2024-02-05
+811,Product_16,Personal Care,38,3,Pune,Credit Card,13,2024-05-29
+812,Product_103,Personal Care,90,5,Kolkata,Cash on Delivery,22,2024-01-01
+813,Product_162,Vegetables,270,3,Kolkata,Credit Card,14,2024-04-14
+814,Product_104,Personal Care,389,5,Kolkata,Cash on Delivery,24,2024-06-08
+815,Product_10,Personal Care,468,1,Chennai,Cash on Delivery,25,2024-03-30
+816,Product_146,Beverages,232,4,Kolkata,Cash on Delivery,18,2024-05-26
+817,Product_92,Fruits,456,5,Hyderabad,UPI,17,2024-06-15
+818,Product_189,Beverages,261,3,Hyderabad,Debit Card,24,2024-01-31
+819,Product_39,Beverages,290,5,Pune,Credit Card,13,2024-02-16
+820,Product_160,Beverages,490,5,Pune,Debit Card,21,2024-01-21
+821,Product_34,Fruits,246,2,Hyderabad,Credit Card,11,2024-05-10
+822,Product_51,Beverages,158,2,Bangalore,UPI,24,2024-01-09
+823,Product_33,Beverages,129,2,Delhi,Cash on Delivery,18,2024-02-18
+824,Product_129,Snacks,203,1,Delhi,UPI,15,2024-06-29
+825,Product_152,Beverages,495,3,Chennai,Debit Card,19,2024-04-28
+826,Product_88,Snacks,466,5,Kolkata,Debit Card,11,2024-01-14
+827,Product_193,Personal Care,312,2,Delhi,Credit Card,15,2024-03-16
+828,Product_36,Personal Care,383,4,Mumbai,Cash on Delivery,21,2024-01-03
+829,Product_114,Household,22,1,Mumbai,Debit Card,19,2024-05-23
+830,Product_148,Personal Care,361,1,Chennai,UPI,16,2024-05-10
+831,Product_134,Household,98,2,Kolkata,Debit Card,16,2024-06-09
+832,Product_165,Fruits,91,5,Hyderabad,Debit Card,18,2024-02-18
+833,Product_10,Personal Care,234,2,Hyderabad,Debit Card,20,2024-02-29
+834,Product_49,Beverages,420,3,Delhi,UPI,15,2024-04-10
+835,Product_172,Fruits,373,2,Kolkata,Debit Card,20,2024-02-03
+836,Product_118,Personal Care,80,2,Delhi,UPI,9,2024-02-17
+837,Product_70,Dairy,144,5,Hyderabad,Cash on Delivery,10,2024-01-19
+838,Product_13,Fruits,220,2,Delhi,Cash on Delivery,25,2024-03-31
+839,Product_194,Vegetables,332,5,Mumbai,Credit Card,17,2024-05-23
+840,Product_31,Vegetables,394,1,Kolkata,Credit Card,13,2024-01-22
+841,Product_49,Beverages,458,1,Delhi,Cash on Delivery,21,2024-04-16
+842,Product_48,Household,258,2,Delhi,UPI,16,2024-01-29
+843,Product_188,Household,286,2,Hyderabad,Credit Card,11,2024-02-02
+844,Product_53,Personal Care,36,2,Delhi,UPI,10,2024-05-03
+845,Product_197,Personal Care,246,5,Delhi,Credit Card,22,2024-03-14
+846,Product_46,Vegetables,307,1,Kolkata,Debit Card,9,2024-04-27
+847,Product_3,Dairy,147,1,Delhi,Credit Card,20,2024-03-21
+848,Product_137,Fruits,135,1,Bangalore,UPI,9,2024-01-04
+849,Product_117,Household,269,4,Bangalore,Credit Card,15,2024-01-28
+850,Product_73,Fruits,144,3,Bangalore,Credit Card,24,2024-04-22
+851,Product_159,Vegetables,380,5,Chennai,Credit Card,25,2024-02-03
+852,Product_154,Household,314,5,Chennai,Cash on Delivery,10,2024-01-07
+853,Product_160,Fruits,219,3,Mumbai,Credit Card,8,2024-04-02
+854,Product_97,Fruits,160,5,Chennai,Debit Card,12,2024-03-24
+855,Product_141,Personal Care,90,2,Delhi,Debit Card,16,2024-04-04
+856,Product_151,Vegetables,475,1,Bangalore,Debit Card,20,2024-01-11
+857,Product_192,Household,302,2,Mumbai,Cash on Delivery,22,2024-03-16
+858,Product_168,Household,315,4,Hyderabad,Credit Card,9,2024-01-17
+859,Product_69,Beverages,488,4,Kolkata,UPI,22,2024-05-22
+860,Product_49,Personal Care,158,2,Pune,UPI,11,2024-02-08
+861,Product_35,Snacks,482,2,Delhi,UPI,11,2024-04-07
+862,Product_77,Fruits,363,4,Kolkata,Cash on Delivery,8,2024-01-23
+863,Product_196,Household,273,4,Chennai,UPI,9,2024-05-08
+864,Product_27,Snacks,40,4,Hyderabad,UPI,20,2024-06-05
+865,Product_114,Snacks,116,1,Chennai,Debit Card,18,2024-03-14
+866,Product_116,Personal Care,456,1,Mumbai,Credit Card,23,2024-01-21
+867,Product_159,Snacks,248,1,Delhi,UPI,19,2024-05-08
+868,Product_75,Beverages,203,4,Chennai,Cash on Delivery,23,2024-06-28
+869,Product_174,Personal Care,336,5,Mumbai,Cash on Delivery,23,2024-01-06
+870,Product_80,Dairy,213,1,Chennai,UPI,10,2024-03-23
+871,Product_94,Fruits,472,5,Delhi,UPI,10,2024-01-11
+872,Product_87,Fruits,385,2,Bangalore,Credit Card,10,2024-03-19
+873,Product_83,Snacks,468,4,Kolkata,Credit Card,8,2024-04-04
+874,Product_113,Dairy,70,5,Hyderabad,Credit Card,16,2024-06-15
+875,Product_103,Fruits,47,2,Hyderabad,UPI,23,2024-06-26
+876,Product_121,Vegetables,329,3,Pune,Cash on Delivery,12,2024-01-17
+877,Product_183,Snacks,385,4,Delhi,Cash on Delivery,15,2024-06-06
+878,Product_144,Vegetables,417,1,Kolkata,Debit Card,12,2024-05-10
+879,Product_72,Household,394,1,Pune,UPI,9,2024-04-26
+880,Product_141,Fruits,67,3,Kolkata,UPI,20,2024-03-31
+881,Product_144,Dairy,314,4,Hyderabad,Debit Card,14,2024-01-02
+882,Product_29,Personal Care,454,2,Hyderabad,Debit Card,23,2024-02-24
+883,Product_173,Snacks,402,4,Pune,Cash on Delivery,20,2024-06-14
+884,Product_45,Household,489,5,Chennai,Credit Card,13,2024-06-16
+885,Product_93,Snacks,408,3,Pune,UPI,18,2024-05-22
+886,Product_122,Dairy,274,3,Pune,UPI,16,2024-02-03
+887,Product_19,Snacks,481,3,Pune,Debit Card,16,2024-06-27
+888,Product_12,Beverages,444,3,Delhi,UPI,12,2024-05-04
+889,Product_154,Beverages,404,1,Pune,Credit Card,9,2024-02-10
+890,Product_107,Beverages,398,5,Delhi,Credit Card,24,2024-05-04
+891,Product_42,Dairy,448,1,Bangalore,Cash on Delivery,18,2024-06-19
+892,Product_90,Snacks,382,5,Delhi,Credit Card,20,2024-02-24
+893,Product_193,Household,389,5,Bangalore,Credit Card,13,2024-02-27
+894,Product_105,Vegetables,399,2,Bangalore,UPI,12,2024-05-20
+895,Product_196,Beverages,480,5,Hyderabad,Credit Card,9,2024-05-07
+896,Product_46,Fruits,424,5,Chennai,Credit Card,20,2024-01-10
+897,Product_92,Vegetables,100,5,Kolkata,Credit Card,13,2024-06-09
+898,Product_111,Vegetables,50,2,Mumbai,Credit Card,20,2024-02-10
+899,Product_57,Fruits,480,5,Kolkata,UPI,23,2024-04-04
+900,Product_150,Fruits,205,3,Chennai,Cash on Delivery,12,2024-02-23
+901,Product_185,Dairy,208,1,Hyderabad,Credit Card,8,2024-04-26
+902,Product_86,Dairy,23,2,Delhi,Credit Card,14,2024-01-18
+903,Product_193,Snacks,128,5,Hyderabad,Credit Card,19,2024-05-11
+904,Product_57,Beverages,30,2,Chennai,Cash on Delivery,8,2024-01-06
+905,Product_15,Dairy,87,4,Mumbai,Cash on Delivery,21,2024-01-19
+906,Product_105,Snacks,416,1,Pune,Credit Card,18,2024-05-28
+907,Product_78,Beverages,35,3,Chennai,UPI,8,2024-03-22
+908,Product_158,Household,404,1,Pune,Cash on Delivery,13,2024-03-18
+909,Product_129,Household,188,4,Kolkata,UPI,10,2024-05-08
+910,Product_142,Personal Care,32,1,Chennai,UPI,13,2024-03-24
+911,Product_50,Vegetables,162,3,Bangalore,Cash on Delivery,12,2024-05-24
+912,Product_116,Dairy,136,1,Chennai,UPI,15,2024-04-07
+913,Product_170,Personal Care,476,1,Bangalore,Cash on Delivery,13,2024-06-10
+914,Product_86,Household,67,5,Hyderabad,Debit Card,23,2024-05-29
+915,Product_172,Snacks,24,4,Bangalore,Cash on Delivery,12,2024-01-03
+916,Product_128,Beverages,450,1,Kolkata,Debit Card,18,2024-01-17
+917,Product_56,Fruits,157,1,Hyderabad,UPI,15,2024-02-24
+918,Product_42,Dairy,99,3,Mumbai,UPI,10,2024-03-15
+919,Product_63,Vegetables,98,2,Hyderabad,UPI,9,2024-01-21
+920,Product_20,Beverages,415,5,Delhi,Debit Card,23,2024-04-07
+921,Product_151,Fruits,447,2,Kolkata,Debit Card,9,2024-06-05
+922,Product_196,Dairy,78,2,Chennai,UPI,10,2024-06-02
+923,Product_86,Snacks,453,3,Bangalore,Debit Card,23,2024-03-06
+924,Product_181,Beverages,337,4,Hyderabad,UPI,15,2024-06-09
+925,Product_131,Dairy,306,5,Bangalore,Debit Card,12,2024-01-09
+926,Product_174,Dairy,228,2,Hyderabad,UPI,17,2024-06-07
+927,Product_189,Fruits,74,3,Kolkata,Debit Card,19,2024-05-01
+928,Product_27,Fruits,49,3,Bangalore,Credit Card,9,2024-06-24
+929,Product_87,Personal Care,164,5,Hyderabad,Credit Card,22,2024-06-15
+930,Product_182,Personal Care,149,3,Hyderabad,Credit Card,10,2024-03-28
+931,Product_151,Household,313,4,Bangalore,Debit Card,16,2024-04-24
+932,Product_9,Beverages,242,2,Pune,Credit Card,23,2024-04-10
+933,Product_189,Household,116,2,Mumbai,Credit Card,8,2024-02-15
+934,Product_80,Household,442,4,Bangalore,Debit Card,16,2024-06-02
+935,Product_4,Beverages,394,5,Hyderabad,Debit Card,17,2024-05-28
+936,Product_195,Dairy,94,5,Delhi,Cash on Delivery,16,2024-06-17
+937,Product_23,Dairy,355,5,Delhi,Cash on Delivery,15,2024-04-10
+938,Product_117,Household,358,2,Hyderabad,Cash on Delivery,9,2024-04-11
+939,Product_55,Personal Care,310,5,Mumbai,Cash on Delivery,19,2024-04-19
+940,Product_129,Household,112,3,Hyderabad,Credit Card,8,2024-02-19
+941,Product_134,Snacks,317,3,Chennai,Debit Card,13,2024-02-20
+942,Product_26,Personal Care,41,1,Mumbai,UPI,24,2024-01-08
+943,Product_99,Vegetables,365,3,Bangalore,Debit Card,24,2024-04-04
+944,Product_87,Snacks,359,1,Kolkata,UPI,13,2024-01-01
+945,Product_56,Vegetables,160,3,Mumbai,Cash on Delivery,13,2024-06-21
+946,Product_45,Snacks,395,2,Kolkata,Debit Card,18,2024-01-28
+947,Product_137,Household,477,2,Pune,Credit Card,18,2024-02-05
+948,Product_179,Snacks,43,5,Chennai,Debit Card,20,2024-04-15
+949,Product_30,Personal Care,167,1,Pune,Debit Card,13,2024-02-02
+950,Product_167,Vegetables,322,1,Kolkata,UPI,18,2024-01-10
+951,Product_123,Personal Care,144,5,Pune,Credit Card,20,2024-01-02
+952,Product_74,Beverages,171,5,Chennai,Credit Card,17,2024-06-13
+953,Product_169,Dairy,85,5,Kolkata,Credit Card,9,2024-05-15
+954,Product_197,Snacks,137,2,Delhi,Debit Card,19,2024-01-28
+955,Product_75,Vegetables,391,4,Bangalore,Debit Card,10,2024-04-13
+956,Product_38,Household,271,2,Pune,Debit Card,22,2024-02-28
+957,Product_12,Dairy,348,3,Hyderabad,Debit Card,23,2024-01-01
+958,Product_98,Beverages,294,2,Bangalore,Credit Card,11,2024-04-28
+959,Product_105,Beverages,89,5,Mumbai,Credit Card,8,2024-02-27
+960,Product_113,Dairy,393,2,Hyderabad,Cash on Delivery,18,2024-03-25
+961,Product_61,Dairy,169,3,Mumbai,UPI,10,2024-05-10
+962,Product_165,Vegetables,30,5,Kolkata,Credit Card,18,2024-03-20
+963,Product_176,Beverages,182,1,Delhi,Cash on Delivery,17,2024-06-17
+964,Product_125,Fruits,29,4,Kolkata,Credit Card,13,2024-03-28
+965,Product_126,Fruits,266,4,Kolkata,UPI,14,2024-02-24
+966,Product_12,Dairy,351,1,Mumbai,Cash on Delivery,9,2024-06-23
+967,Product_71,Household,235,3,Bangalore,Cash on Delivery,23,2024-05-11
+968,Product_182,Household,184,1,Chennai,Debit Card,13,2024-02-15
+969,Product_154,Dairy,375,2,Chennai,Cash on Delivery,13,2024-02-21
+970,Product_32,Beverages,477,5,Mumbai,Credit Card,25,2024-01-21
+971,Product_191,Fruits,156,3,Kolkata,UPI,18,2024-05-01
+972,Product_118,Personal Care,237,1,Pune,Cash on Delivery,15,2024-03-26
+973,Product_190,Snacks,34,1,Chennai,Credit Card,25,2024-03-20
+974,Product_199,Snacks,329,5,Hyderabad,UPI,11,2024-05-04
+975,Product_32,Beverages,318,5,Mumbai,UPI,10,2024-02-22
+976,Product_5,Dairy,136,3,Mumbai,Debit Card,22,2024-05-10
+977,Product_16,Snacks,403,1,Bangalore,Cash on Delivery,12,2024-05-17
+978,Product_140,Personal Care,455,3,Mumbai,UPI,24,2024-06-05
+979,Product_162,Household,423,5,Pune,Cash on Delivery,14,2024-01-12
+980,Product_146,Dairy,403,4,Delhi,Debit Card,20,2024-05-12
+981,Product_160,Personal Care,252,2,Hyderabad,UPI,20,2024-04-17
+982,Product_44,Fruits,142,1,Pune,UPI,17,2024-03-01
+983,Product_129,Beverages,284,1,Bangalore,Credit Card,17,2024-01-12
+984,Product_128,Personal Care,357,1,Hyderabad,UPI,11,2024-04-21
+985,Product_115,Fruits,270,3,Kolkata,UPI,12,2024-01-19
+986,Product_109,Beverages,271,5,Delhi,Debit Card,12,2024-04-04
+987,Product_7,Household,354,3,Pune,Credit Card,23,2024-05-25
+988,Product_66,Beverages,93,2,Chennai,Cash on Delivery,10,2024-04-13
+989,Product_163,Snacks,293,3,Mumbai,Cash on Delivery,20,2024-01-06
+990,Product_133,Snacks,498,2,Pune,UPI,17,2024-03-14
+991,Product_6,Household,342,1,Bangalore,UPI,15,2024-01-22
+992,Product_80,Personal Care,86,1,Bangalore,Debit Card,9,2024-04-25
+993,Product_13,Personal Care,297,4,Bangalore,Credit Card,22,2024-01-23
+994,Product_117,Dairy,159,4,Chennai,UPI,23,2024-06-21
+995,Product_188,Household,328,3,Delhi,Debit Card,13,2024-02-07
+996,Product_46,Snacks,132,5,Kolkata,Cash on Delivery,21,2024-05-06
+997,Product_141,Fruits,365,3,Bangalore,Cash on Delivery,16,2024-01-03
+998,Product_51,Household,237,5,Chennai,Cash on Delivery,11,2024-01-31
+999,Product_62,Fruits,39,5,Delhi,Credit Card,19,2024-04-09
+1000,Product_55,Vegetables,181,3,Chennai,UPI,16,2024-02-28
